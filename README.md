@@ -5,11 +5,13 @@ X'new theme for Hexo.
 ## Usage
 
 ### Config
+```
 $ npm un -S hexo-renderer-ejs
 $ npm i -S hexo-renderer-jade
 $ hexo clean
 $ hexo g
 $ hexo s
+```
 Copy `_config.sample.yml` to `_config.yml` and edit the subjects.
 
 ### Archives
